@@ -1,3 +1,3 @@
 # launchpad
-launch pad for new projects
+launch pad for projects 
 This is where new projects will be added
